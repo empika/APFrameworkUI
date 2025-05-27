@@ -5,8 +5,7 @@
   "description": "A Text Mesh Pro based text only UI system for Unity",
   "unity": "2021.3",
   "dependencies": {
-    "com.cysharp.zstring": "https://github.com/Cysharp/ZString.git?path=src/ZString.Unity/Assets/Scripts/ZString",
-    "com.unity.textmeshpro": "3.0.6"
+    
   },
   "author": {
     "name": "DK Liao",
